@@ -1,11 +1,4 @@
-a{
-  background:white;
-  color:green;
-  text-decoration:underline;
-}
-
 td{
-  background:black;
   text-align:center;
   border-style:solid;
   border-color:green;
@@ -14,7 +7,6 @@ td{
 }
 
  table{
-	  background:black;
 	  border-style:solid;
 	  border-color:green;
 	  border-width:2px;
@@ -22,47 +14,6 @@ td{
 	  margin: 0 auto;
 	  width: 50%;
 }
-
-#logo{
-	float: center;
-	margin: 0 auto;
-	width: 40%;
-}
-#ligma{
-	float: center;
-	margin: 0 auto;
-	width: 40%;
-}
-p{
-	text-align: center;
-}
-
-div{
-	text-align:center;
-	background:black;
-}
-
-a{
-	background:black;
-}
-
-body{
-     background-image:url("sfof.jpg");
-}
-
-#potas{
-	margin: 0 auto;
-	width: 10%;
-	float:left;
-}
-
 th{
 	color: green;
-}
-
-#las{
-	width:40%
-}
-#la{
-	color:black;
 }
