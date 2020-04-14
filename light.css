@@ -17,3 +17,12 @@ td{
 th{
 	color: green;
 }
+#as{
+	float: center;
+	margin: 0 auto;
+	width: 40%;
+}
+p{
+	text-align: center;
+	color: red;
+}
